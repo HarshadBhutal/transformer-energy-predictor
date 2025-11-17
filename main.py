@@ -1,7 +1,3 @@
-# ================================================================
-# LSTM Energy Forecasting (Continuous Dataset + Weekly Dispatch)
-# Stable autoregressive forecasting included (no reshape errors)
-# ================================================================
 
 import pandas as pd
 import numpy as np
